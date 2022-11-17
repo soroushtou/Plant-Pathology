@@ -5,11 +5,11 @@ The current model trained by this program can achieve 84% accuracy on hidden tes
 https://www.kaggle.com/competitions/plant-pathology-2021-fgvc8/leaderboard
 This project is also my Master's Thesis.
 ___________________________________________________________________________________
-![1]([http://url/to/img.png](https://github.com/soroushtou/Plant-Pathology/blob/main/images/1%20(5).png)
+![1]([https://github.com/soroushtou/Plant-Pathology/blob/main/images/1%20(5).png])
 This is the distribution of classes in the dataset. It has 6 single label classes, and the other 6 are multi-labeled. It's completely imbalanced!!
 ___________________________________________________________________________________
 I'm splitting the multi-labeled classes and treat this problem as a multi-label classification problem.
-![2]([http://url/to/img.png](https://github.com/soroushtou/Plant-Pathology/blob/main/images/1%20(1).png)
+![2]([https://github.com/soroushtou/Plant-Pathology/blob/main/images/1%20(5).png])
 ![3]([http://url/to/img.png](https://github.com/soroushtou/Plant-Pathology/blob/main/images/1%20(2).png)
 Some labels are noisy and need to be softened, especially in case of "complex" images.
 ___________________________________________________________________________________
