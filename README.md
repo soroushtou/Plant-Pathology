@@ -21,4 +21,4 @@ ________________________________________________________________________________
 
 Batches of 20 images, 400x400 pixels, and normalized are sent to a GTX 1080Ti. All models are pretrained and I use Transfer Learning to fine-tune them. They are trained for 30 epochs and when they reach the minimum loss, they are saved. Then they are uploaded to kaggle to test their accuracy.
 
-![5](https://github.com/soroushtou/Plant-Pathology/blob/main/images/1%20(4).png)
+![5](https://github.com/soroushtou/Plant-Pathology/blob/main/images/1%20(4).png).
